@@ -9,5 +9,5 @@ Assignments for Applied Statistical Methods Course taught at BITS Pilani Dubai C
 
 ### Assignment 2
 [Assignment 2 Report](https://docs.google.com/document/d/1ra4Pg4_8Zd2TYzGoZkwj9pPtxZUD8ALtB8mNcyzXO5w/edit?usp=sharing) <br>
-3. [Covid-19 Healthy Diet](https://www.kaggle.com/datasets/mariaren/covid19-healthy-diet-dataset?select=Food_Supply_kcal_Data.csv)
+3. [Covid-19 Healthy Diet](https://www.kaggle.com/datasets/mariaren/covid19-healthy-diet-dataset?select=Food_Supply_kcal_Data.csv) <br>
 4. [Predicting Yearly Amount spent by E-commerce Customers](https://www.kaggle.com/datasets/iabdulw/ecommerce-customer-data)
